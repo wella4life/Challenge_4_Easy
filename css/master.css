@@ -1,0 +1,87 @@
+/*---------------------------------------------------------  Start Variables */
+:root {
+  --Soft-Blue: hsl(215, 51%, 70%);
+  --Cyan: hsl(178, 100%, 50%);
+  --Very-Dark-Blue-Main-BG: hsl(217, 54%, 11%);
+  --Very-Dark-Blue-Card-BG: hsl(216, 50%, 16%);
+  --Very-Dark-Blue-Line: hsl(215, 32%, 27%);
+  --White: hsl(0, 0%, 100%);
+  --Font-Size: 18px;
+}
+/*-----------------------------------------------------------  End Variables */
+/*------------------------------------------------------  Start Global Rules */
+-webkit-box-sizing: border-box;
+* {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+html {
+  scroll-behavior: smooth;
+  transition: 0.5s;
+}
+body {
+  font-family: "Outfit", sans-serif;
+  /* 300, 400, 600 */
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 765px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+/*--------------------------------------------------------  End Global Rules */
+/*--------------------------------------------------------------  Start Code */
+.background {
+}
+.background .container {
+}
+.box {
+}
+.box h2 {
+}
+.box p {
+}
+.box .image {
+}
+.box .image img {
+}
+.box .currency {
+}
+.box .currency img {
+}
+.box .currency p {
+}
+.box .time {
+}
+.box .time img {
+}
+.box .time p {
+}
+.box .footer {
+}
+.box .footer img {
+}
+.box .footer p {
+}
+.box .footer span {
+}
+/*------------------------------------------------------------==--  End Code */
