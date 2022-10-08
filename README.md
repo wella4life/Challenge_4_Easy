@@ -1,6 +1,6 @@
 - Overview:
-  - [NFT-Preview](#the-challenge)
-  - [https://wella4life.github.io/Challenge_4_Easy/](#links)
+  - [NFT-Preview]
+  - [https://wella4life.github.io/Challenge_4_Easy/]
   - ![](images/Finished-Desktop.jpg)
   - ![](images/Finished-Mobile.jpg)
 
